@@ -68,7 +68,7 @@ MIT
 
 ## English
 
-A mobile-first product manual browser for ORVIBO smart home devices, built with React + Vite + Tailwind CSS.
+A mobile-first product manual browser for smart home devices, built with React + Vite + Tailwind CSS.
 
 ### Live Demo
 
